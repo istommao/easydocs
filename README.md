@@ -1,0 +1,2 @@
+# easydocs
+easy docs
