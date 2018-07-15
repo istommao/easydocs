@@ -671,7 +671,7 @@ body .fly-user-main{position: relative; min-height: 600px;}
 
 .boxImg {
     width: 250px;
-    height: 96px;
+    height: 120px;
     overflow: hidden;
 }
 
@@ -684,7 +684,7 @@ body .fly-user-main{position: relative; min-height: 600px;}
 .boxContent {
     position: relative;
     width: 250px;
-    height: 220px;
+    height: 196px;
     background: #fff;
     padding: 22px 24px 24px;
     box-sizing: border-box;
@@ -774,3 +774,4 @@ body .fly-user-main{position: relative; min-height: 600px;}
     font-style: italic;
     color: #666666;
 }
+
